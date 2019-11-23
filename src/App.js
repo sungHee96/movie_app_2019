@@ -11,6 +11,7 @@ function App() {
       <Food fav="고봉민 돈까스 김밥" />
       <Food fav="BHC 치즈볼" />
       <Food fav="광어지느러미" />
+      <Food fav="피자샵 갈릭소스" />
     </div>
     );
 }
